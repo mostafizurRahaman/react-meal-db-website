@@ -1,0 +1,9 @@
+.cart{
+   padding: 10px;
+   position: sticky;
+   top:90px;
+}
+.hi-light{
+   font-weight: bold;
+   text-align: center;
+}

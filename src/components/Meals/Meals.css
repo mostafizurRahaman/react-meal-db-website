@@ -1,0 +1,26 @@
+.shop-container{
+   display: grid;
+   grid-template-columns:4fr 1.1fr;
+   gap: 20px;
+}
+
+.meals-container{
+   display: grid; 
+   grid-template-columns: repeat(4, 1fr);
+   gap: 25px;
+   padding: 50px;
+}
+.meals-container img{
+   width: 100%;
+   height: auto;
+   border-radius: 15px;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   -ms-border-radius: 15px;
+   -o-border-radius: 15px;
+}
+
+.cartContainer{
+   background: orange; 
+   color: black;
+}
